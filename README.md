@@ -73,12 +73,4 @@ The full output is saved in `Vancouver_Python_Developer.csv`.
 - Build a user-friendly web UI to interact with the scraper
 - Add date filters and keyword tags
 
----
 
-### ⚠️ Disclaimer
-
-This scraper uses LinkedIn's guest job posting endpoints which may change or limit access at any time. Use for educational purposes only and respect LinkedIn’s [terms of service](https://www.linkedin.com/legal/user-agreement).
-
----
-
-Let me know if you'd like a badge, logo, or sections like "Getting Started" or "Contributing"!
